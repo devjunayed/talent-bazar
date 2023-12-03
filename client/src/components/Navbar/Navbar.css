@@ -1,0 +1,6 @@
+
+ul > li:hover a,
+ul > li a:active {
+    opacity: 1 !important;
+  color: gray !important;
+}
