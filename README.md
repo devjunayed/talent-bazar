@@ -1,5 +1,5 @@
 # Talent Bazar
-🌐 **Live Link:** [Active Pulse]([https://[devjunayed-active-pulse.web.app](https://devjunayed-talent-bazar.web.app/)](https://devjunayed-talent-bazar.web.app/)) [[https://devjunayed-active-pulse.web.app/](https://devjunayed-talent-bazar.web.app/)]
+🌐 **Live Link:** [Talent Bazar](https://devjunayed-talent-bazar.web.app/)
 
 ## Features of Talent Bazar
 * This is a job finding and worker finding platform
