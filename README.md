@@ -1,4 +1,8 @@
-# About Talent Bazar
+# Talent Bazar
+## Live Link of Talent Bazar
+(https://devjunayed-talent-bazar.web.app/)
+
+## Features of Talent Bazar
 * This is a job finding and worker finding platform
 * Job Recruiter can post job and Job Seeker can find a job.
 * Job Recuriter can also post on other job rather than his/her poste job
@@ -7,5 +11,7 @@
 * When job deadline is exceeded no one can apply to a job.
 
 
-### Live Link of Talent Bazar
-https://devjunayed-talent-bazar.web.app/
+
+
+## Used technologies
+![Used technologies](https://skillicons.dev/icons?i=vite,react,firebase,mongodb,express,tailwind)
